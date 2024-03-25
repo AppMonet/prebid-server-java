@@ -35,14 +35,14 @@
         <lombok.version>1.18.22</lombok.version>
         <commons.version>3.6</commons.version>
         <commons.collections.version>4.1</commons.collections.version>
-        <commons.compress.version>1.21</commons.compress.version>
+        <commons.compress.version>1.26.0</commons.compress.version>
         <httpclient.version>4.5.13</httpclient.version>
         <ipaddress.version>5.3.1</ipaddress.version>
-        <jackson.version>2.13.0</jackson.version>
+        <jackson.version>2.13.4.2</jackson.version>
         <json.schema.validator.version>0.1.7</json.schema.validator.version>
         <jsonpatch.version>1.13</jsonpatch.version>
-        <mysql.version>8.0.16</mysql.version>
-        <postgresql.version>42.1.4</postgresql.version>
+        <mysql.version>8.0.28</mysql.version>
+        <postgresql.version>42.3.9</postgresql.version>
         <caffeine.version>2.6.2</caffeine.version>
         <psl.version>2.2.0</psl.version>
         <metrics.version>4.0.3</metrics.version>
@@ -58,11 +58,11 @@
         <mockito.version>4.0.0</mockito.version>
         <mockito-junit-jupiter.version>4.0.0</mockito-junit-jupiter.version>
         <assertj.version>3.21.0</assertj.version>
-        <wiremock.version>2.31.0</wiremock.version>
+        <wiremock.version>2.35.1</wiremock.version>
         <awaitility.version>4.1.0</awaitility.version>
-        <jetty.version>9.4.44.v20210927</jetty.version>
+        <jetty.version>9.4.51.v20230217</jetty.version>
         <restassured.version>4.4.0</restassured.version>
-        <h2.version>1.4.200</h2.version>
+        <h2.version>2.2.220</h2.version>
         <spock.version>2.0-groovy-3.0</spock.version>
         <testcontainers.version>1.16.2</testcontainers.version>
         <mockserver-client.version>5.11.2</mockserver-client.version>
